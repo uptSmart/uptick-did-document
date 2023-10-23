@@ -3,4 +3,4 @@
 * [Overview](README.md)
 * [Issuer](issuer.md)
 * [JS SDK](js-sdk.md)
-* [Page](page.md)
+* [Deployment](deployment.md)
