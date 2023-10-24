@@ -106,7 +106,7 @@ ISSUER_SCHEMA_CACHE=false
 ISSUER_KEY_STORE_TOKEN=
 ```
 
-- .env-issuer
+- .env-ui
 ```
 ISSUER_UI_AUTH_USERNAME=user-ui
 ISSUER_UI_AUTH_PASSWORD=password-ui
